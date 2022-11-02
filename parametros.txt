@@ -1,5 +1,12 @@
+Para iniciar
 1 - git init
+Para agregar archivos o todo 
 2 - git add .
+Para ver el estado y los archivos que se quieren agregar
 3 - git status
+Eliminar alguna carpeta que ya no quiera subir
 4 - git rm --cached (nombre del archivo)
+Comentar cada cambio que se realiza
 5 - git commit - "mensaje"
+restaurar un cambio
+6 - git restore <nombre del archivo archivo>
