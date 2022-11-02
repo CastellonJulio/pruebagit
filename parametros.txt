@@ -10,3 +10,10 @@ Comentar cada cambio que se realiza
 5 - git commit - "mensaje"
 restaurar un cambio
 6 - git restore <nombre del archivo archivo>
+
+Paracrear una rama de master
+7 - git branch clonmaster
+Ir a la rama creada
+8 - git checkout clonmaster
+Para unir ramas
+9- git merge <nombre de la rama>
